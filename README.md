@@ -1,3 +1,46 @@
+### ENGLISH VERSION
+
+## Inspiration
+
+Helping kids learn the laws of physics while having fun playing with our mixed reality HoloLens application.
+
+## What it does
+
+Users can construct their own world by using our built-in models, add cool physics features and see how objects react.
+
+## How we built it
+
+Holo-Phyperiment was developed in C# using Unity3D during HACKPKU 2017. We use the "HoloToolKit for Unity" Package to ease the development. We first started off by brainstorming the key features of what a physics experiment application should have. After having a clear idea of what we will be building, we watched tutorials on Unity3d development for the HoloLens on Microsoft's HoloLens Academy website, seeking for features given by HoloLens that could be use in our application to enhance a rich mixed reality experience.
+Three main features we used were Gaze, Gesture and Voice Recognition. 
+
+## Challenges we ran into
+HoloLens/AR is considered as a new emerging technology.Although Microsoft did provide us with a great documentation,
+due to our lack of experience with the product itself, we ran into different kinds of problems. 
+1) The oloToolKit for Unity contains tons of code, it would be impossible to digest it in a couple of days.
+2) The product is still in development stage, this means that there isn't much help you can get when you find bugs.
+3) Most of us are Unity3D beginners.
+4) Adapting our design for Augmented Reality.
+5) There is no good way to let user input a precise number. (for e.g. 123.4456) 
+
+## Accomplishments that we're proud of
+We managed to create key features of what a physics experiment application should have.
+1) Users can create and destroy models.
+2) Users can control and manipulate our 3D built-in models by using voice and gesture commands. 
+3) Users can view the state of an object (for e.g. it's speed and the force given to it.)
+4) Users can change the mass and apply force to the object.
+5) Users can speed up or slow down the physics engine, this allows you to see the action in slow motion.
+6) Users can manipulate gravity. (Ever wonder what it's like when you reverse gravity?)
+
+## What we learned
+We learned how to use Unity3D to create a mixed reality application and deploy it to a HoloLens device. 
+During the process, we also learned how to work efficiently in a team environment and how to stay alive while sleeping only 5-6 hours in a 40 hours coding period.
+
+## What's next for Holo Phyperiment
+We are planning to do some adjustments to smooth the user experience and add new models and features to the application. We even thought of submitting it to the app store.
+
+-------------------
+### CHINESE VERSION
+
 # Holo-Phyperiment
 
 **项目介绍：**

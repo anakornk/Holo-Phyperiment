@@ -1,3 +1,6 @@
+[![DEMO VIDEO](http://www.anakornk.com/wp-content/uploads/2017/05/20170506_220435_HoloLens-300x169.jpg)](https://www.youtube.com/playlist?list=PL88LTPWeq-Yb7Tv-adJTSefEAbGpzaLAF)
+
+
 ### ENGLISH VERSION
 
 ## Inspiration
@@ -16,8 +19,8 @@ Three main features we used were Gaze, Gesture and Voice Recognition.
 ## Challenges we ran into
 HoloLens/AR is considered as a new emerging technology.Although Microsoft did provide us with a great documentation,
 due to our lack of experience with the product itself, we ran into different kinds of problems. 
-1) The oloToolKit for Unity contains tons of code, it would be impossible to digest it in a couple of days.
-2) The product is still in development stage, this means that there isn't much help you can get when you find bugs.
+1) The HoloToolKit for Unity contains tons of code, it would be impossible to digest it in a couple of days.
+2) The product is still in development stage, this means that there isn't much help you can get when encounter find bugs.
 3) Most of us are Unity3D beginners.
 4) Adapting our design for Augmented Reality.
 5) There is no good way to let user input a precise number. (for e.g. 123.4456) 

@@ -1,3 +1,5 @@
+####北京大学 虚拟仿真创新应用与实践 Holo Phyperiment 语音识别操作指南
+
 ### 操作指南
 
 ## Create Model Commands
@@ -63,5 +65,3 @@ Close Menu			关闭菜单
 ## Start Experiment
 Start Work      		部署完成后，开始场景
 
-
-Edit by WangJialin ~V~

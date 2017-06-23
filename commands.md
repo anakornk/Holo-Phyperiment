@@ -1,6 +1,7 @@
-#### 北京大学 虚拟仿真创新应用与实践 Holo Phyperiment
+#### 北京大学 虚拟仿真创新应用与实践 Holo Phyperiment VFive 第五组
 
-### 语音识别操作指南
+
+### 操作指南（语音识别）
 
 ## Create Model Commands
  	

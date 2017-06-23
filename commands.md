@@ -1,6 +1,6 @@
-#### 北京大学 虚拟仿真创新应用与实践 Holo Phyperiment 语音识别操作指南
+#### 北京大学 虚拟仿真创新应用与实践 Holo Phyperiment
 
-### 操作指南
+### 语音识别操作指南
 
 ## Create Model Commands
  	
